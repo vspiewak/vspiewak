@@ -19,6 +19,6 @@ Each bullet links to the full story — more on [vspiewak.com](https://vspiewak.
 * **2024** — the Kubernetes year : CKAD · CKA · CKS in one month
 * **2025-2026** — the fleet era ☝️ (you just read it)
 
-**14** years · **66** personal projects · **1634** commits · **178** stars
+**14** years · **66** personal projects · **1642** commits · **178** stars
 
 [![views](https://komarev.com/ghpvc/?username=vspiewak&style=flat&color=brightgreen&label=views&abbreviated=true)](https://github.com/vspiewak)
