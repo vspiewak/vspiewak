@@ -16,6 +16,15 @@ My day job lives in a private org, so this profile looks quieter than reality. M
 
 🧪 The fleet patterns, distilled into runnable demos : [gh-auto-updater](https://github.com/vspiewak/gh-auto-updater) · [temporal-bash-workflow](https://github.com/vspiewak/temporal-bash-workflow)
 
-Also here since **{{ ACCOUNT_AGE }}** years : **{{ REPOSITORIES }}** personal projects, **{{ COMMITS }}** commits, **{{ STARS }}** stars 🥲
+🕰️ Member since **2012** — older than Kubernetes, GitHub Actions, and most of the JS frameworks I've survived 🥲
+
+* **2008** — Gold Award, Sun Microsystems 🏆 (an OpenOffice.org accessibility plugin — pre-GitHub prehistory)
+* **2012** — joined GitHub · the ELK-stack blogging era
+* **2014** — [twitter-sentiment-analysis](https://github.com/vspiewak/twitter-sentiment-analysis) : Spark + Kibana, **105 ⭐** — still collecting stars a decade later
+* **2015-2018** — speaker era : Devoxx FR ×2, Scala.IO, Codeurs en Seine
+* **2024** — the Kubernetes year : CKAD · CKA · CKS in one month
+* **2025-2026** — the fleet era : 1,273 repos migrated, 27,000+ bot PRs — the story is on [vspiewak.com](https://vspiewak.com)
+
+**{{ ACCOUNT_AGE }}** years · **{{ REPOSITORIES }}** personal projects · **{{ COMMITS }}** commits · **{{ STARS }}** stars
 
 [![views](https://komarev.com/ghpvc/?username=vspiewak&style=flat&color=brightgreen&label=views&abbreviated=true)](https://github.com/vspiewak)
