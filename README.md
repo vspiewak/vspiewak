@@ -10,8 +10,6 @@ My day job lives in a private org, so this profile looks quieter than reality. M
 
 Each bullet links to the full story — more on [vspiewak.com](https://vspiewak.com) · [RSS](https://vspiewak.com/rss.xml)
 
-🧪 The fleet patterns, distilled into runnable demos : [gh-auto-updater](https://github.com/vspiewak/gh-auto-updater) · [temporal-bash-workflow](https://github.com/vspiewak/temporal-bash-workflow)
-
 🕰️ Member since **2012** — older than Kubernetes, GitHub Actions, and most of the JS frameworks I've survived 🥲
 
 * **2008** — Gold Award, Sun Microsystems 🏆 (an OpenOffice.org accessibility plugin — pre-GitHub prehistory)
@@ -21,6 +19,6 @@ Each bullet links to the full story — more on [vspiewak.com](https://vspiewak.
 * **2024** — the Kubernetes year : CKAD · CKA · CKS in one month
 * **2025-2026** — the fleet era ☝️ (you just read it)
 
-**14** years · **66** personal projects · **1636** commits · **178** stars
+**14** years · **66** personal projects · **1634** commits · **178** stars
 
 [![views](https://komarev.com/ghpvc/?username=vspiewak&style=flat&color=brightgreen&label=views&abbreviated=true)](https://github.com/vspiewak)

@@ -10,8 +10,6 @@ My day job lives in a private org, so this profile looks quieter than reality. M
 
 Each bullet links to the full story — more on [vspiewak.com](https://vspiewak.com) · [RSS](https://vspiewak.com/rss.xml)
 
-🧪 The fleet patterns, distilled into runnable demos : [gh-auto-updater](https://github.com/vspiewak/gh-auto-updater) · [temporal-bash-workflow](https://github.com/vspiewak/temporal-bash-workflow)
-
 🕰️ Member since **2012** — older than Kubernetes, GitHub Actions, and most of the JS frameworks I've survived 🥲
 
 * **2008** — Gold Award, Sun Microsystems 🏆 (an OpenOffice.org accessibility plugin — pre-GitHub prehistory)
