@@ -25,6 +25,6 @@ My day job lives in a private org, so this profile looks quieter than reality. M
 * **2024** — the Kubernetes year : CKAD · CKA · CKS in one month
 * **2025-2026** — the fleet era : 1,273 repos migrated, 27,000+ bot PRs — the story is on [vspiewak.com](https://vspiewak.com)
 
-**13** years · **65** personal projects · **1614** commits · **177** stars
+**14** years · **66** personal projects · **1634** commits · **178** stars
 
 [![views](https://komarev.com/ghpvc/?username=vspiewak&style=flat&color=brightgreen&label=views&abbreviated=true)](https://github.com/vspiewak)
