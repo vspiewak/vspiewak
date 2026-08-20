@@ -14,11 +14,9 @@ Each bullet links to the full story — more on [vspiewak.com](https://vspiewak.
 
 * **2008** — Gold Award, Sun Microsystems 🏆 (an OpenOffice.org accessibility plugin — pre-GitHub prehistory)
 * **2012** — joined GitHub · the ELK-stack blogging era
-* **2014** — [twitter-sentiment-analysis](https://github.com/vspiewak/twitter-sentiment-analysis) : Spark + Kibana, **105 ⭐** — still collecting stars a decade later
+* **2014** — [twitter-sentiment-analysis](https://github.com/vspiewak/twitter-sentiment-analysis) : Spark + Kibana, **105 ⭐**
 * **2015-2018** — speaker era : Devoxx FR ×2, Scala.IO, Codeurs en Seine
 * **2024** — the Kubernetes year : CKAD · CKA · CKS in one month
 * **2025-2026** — the fleet era ☝️ (you just read it)
-
-**{{ ACCOUNT_AGE }}** years · **{{ REPOSITORIES }}** personal projects · **{{ COMMITS }}** commits · **{{ STARS }}** stars
 
 [![views](https://komarev.com/ghpvc/?username=vspiewak&style=flat&color=brightgreen&label=views&abbreviated=true)](https://github.com/vspiewak)
