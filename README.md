@@ -1,6 +1,6 @@
 ### Hey ! 👋
 
-I'm **Vincent**, freelance **Platform Architect & Tech Lead** in Paris 🇫🇷
+I'm **Vincent**, **Platform Architect & Tech Lead** in Paris 🇫🇷
 
 My day job lives in a private org, so this profile looks quieter than reality. Meanwhile, at work :
 
@@ -8,7 +8,7 @@ My day job lives in a private org, so this profile looks quieter than reality. M
 * 🤖 [built an auto-updater that opened **27,000+ pull requests** across a 2,700-repo fleet — 83% merged, humans always in the loop](https://vspiewak.com/gh-auto-updater-mass-pull-requests-across-a-repo-fleet)
 * ☕ leading a **Java 21 / Spring Boot 3** replatforming across ~100 microservices — tests first (story in the works ✍️)
 
-Each bullet links to the full story — more on [vspiewak.com](https://vspiewak.com) · [RSS](https://vspiewak.com/rss.xml)
+Deep dives on [vspiewak.com](https://vspiewak.com) · [RSS](https://vspiewak.com/rss.xml)
 
 🕰️ Member since **2012** — older than Kubernetes, GitHub Actions, and most of the JS frameworks I've survived 🥲
 
