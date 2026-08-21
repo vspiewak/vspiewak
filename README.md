@@ -1,6 +1,6 @@
 ### Hey ! 👋
 
-I'm **Vincent**, **Platform Architect & Tech Lead** in Paris 🇫🇷
+I'm **Vincent**, **Platform Architect & Tech Lead** in Paris 🥐 🇫🇷
 
 My day job lives in a private org, so this profile looks quieter than reality. Meanwhile, at work :
 
