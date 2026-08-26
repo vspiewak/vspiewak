@@ -12,7 +12,7 @@ Deep dives on [vspiewak.com](https://vspiewak.com) · [RSS](https://vspiewak.com
 
 🕰️ Member since **2012** — older than Kubernetes, GitHub Actions, and most of the JS frameworks I've survived 🥲
 
-* **2006** — Club Med bartender : 300–600 cocktails a night — first high-throughput system 🍹
+* **2006** — Club Med bartender : 300 cocktails a night — first high-throughput system 🍹
 * **2008** — OpenOffice.org Gold Award 🏆 ($13,500) : an accessibility plugin speaking 27 languages
 * **2012** — joined GitHub · the ELK-stack blogging era
 * **2014** — [twitter-sentiment-analysis](https://github.com/vspiewak/twitter-sentiment-analysis) : Spark + Kibana, **105 ⭐**
