@@ -4,7 +4,7 @@ I'm **Vincent**, **Platform Architect & Tech Lead** in Paris 🥐 🇫🇷
 
 My day job lives in a private org, so this profile looks quieter than reality. Meanwhile, at work :
 
-* 🏦 [helped a bank choose **Temporal** during its core-banking migration — JIRA as the workflow UI, automation with **humans inside**](https://vspiewak.com/how-a-bank-chose-temporal-automation-with-humans-inside)
+* 🏦 [helped a bank choose **Temporal** — JIRA as the workflow UI, **humans inside**](https://vspiewak.com/how-a-bank-chose-temporal-automation-with-humans-inside)
 * 🚚 [migrated **1,273 repositories** from Bitbucket to GitHub — full history, CI/CD included, **in under an hour**](https://vspiewak.com/migrating-1200-repos-from-bitbucket-to-github-in-under-an-hour)
 * 🤖 [built an auto-updater that opened **27,000+ pull requests** across a 2,700-repo fleet — 83% merged, humans always in the loop](https://vspiewak.com/gh-auto-updater-mass-pull-requests-across-a-repo-fleet)
 * ☕ leading a **Java 21 / Spring Boot 3** replatforming across ~100 microservices — tests first (story in the works ✍️)
