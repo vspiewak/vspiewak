@@ -18,7 +18,7 @@ Deep dives on [vspiewak.com](https://vspiewak.com) · [RSS](https://vspiewak.com
 * **2012** — joined GitHub · the ELK-stack blogging era
 * **2014** — [twitter-sentiment-analysis](https://github.com/vspiewak/twitter-sentiment-analysis) : Spark + Kibana, **105 ⭐**
 * **2015-2018** — speaker era : Devoxx FR ×2, Scala.IO, Codeurs en Seine
-* **2016-2023** — the billions era : data platforms at 3–4B events/year, then tech lead across 5 teams
+* **2016-2023** — the billions era : [data platforms](https://vspiewak.com/62-days-of-dual-writes-replatforming-a-data-platform-on-gcp) at 3–4B events/year, then [tech lead across 5 teams](https://vspiewak.com/30-go-repositories-from-one-free-day)
 * **2024** — the Kubernetes year : CKAD · CKA · CKS in one month · [Temporal in core banking](https://vspiewak.com/how-a-bank-chose-temporal-automation-with-humans-inside)
 * **2025-2026** — the fleet era ☝️ (you just read it)
 
